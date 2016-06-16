@@ -44,7 +44,7 @@ class BattleshipGame {
                 visible: true,
                 defaultCloseOperation: WC.DISPOSE_ON_CLOSE,
                 resizable: false,
-                preferredSize: [180, 595],
+                preferredSize: [185, 595],
                 size: [170, 595],
                 background: java.awt.Color.LIGHT_GRAY) {
 
